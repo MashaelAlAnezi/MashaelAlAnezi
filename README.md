@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 
 # I'm Mashael Al Anezi
 
+## Kuwait University 
+### MIS Management Information System
+
 ##### - 🔭 I’m currently working on enhancing my skills
 ##### - 🌱 I’m currently Learning Python, and Database.
 ##### - 👯 I’m looking to collaborate on projects 
