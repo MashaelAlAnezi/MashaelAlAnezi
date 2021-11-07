@@ -5,7 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
+
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +16,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# I'm Mashael Al Anezi
+
+##### - 🔭 I’m currently working on enhancing my skills
+##### - 🌱 I’m currently Learning Python, and Database.
+##### - 👯 I’m looking to collaborate on projects 
+##### - 🤔 I’m looking for help with using GitHub
+##### - 💬 Ask me about anything
+
+
